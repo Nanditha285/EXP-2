@@ -52,12 +52,14 @@ Tabulation for Open Circuit Test
 Tabulation for Load Test:
 
 Model graph:
-Calculation: 
+
 
 Open circuit characteristics
 
+![image](https://github.com/Nanditha285/EXP-2/blob/main/Screenshot%202026-03-18%20183329.png?raw=true)
   
 Load Characteristics:
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
